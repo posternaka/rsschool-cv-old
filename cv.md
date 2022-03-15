@@ -10,7 +10,7 @@
 ### about me
 >A year ago, I set myself the goal of becoming a developer. During this time, I regularly study, look for answers to questions, watch tutorials, attend various intensives, read books.
 I'm interested in what I do. I try to give my best. Sometimes it is difficult, but when you overcome it, you become one step closer to your goal.
-### my skils:
+### my skills:
 - HTML5
 - CSS3
 - JS(ES6)
@@ -28,3 +28,11 @@ For example: **expandedForm(12);** _// Should return '10 + 2'_
   return res.trim().split(' ').join(' + ');
 }
 ```
+### courses:
+- Redev(JS)
+- [Udemy](https://www.udemy.com/course/javascript_full)
+### languages:
+- **Russian** - Native
+- **English** - B1 in progress
+___
+## Let's work together :)
