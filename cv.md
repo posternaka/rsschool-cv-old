@@ -8,6 +8,8 @@
 - **Phone:** +375 29 762-47-82
 - **E-mail:** nik.petrenko97@gmail.com
 - **Discrod:** [posternaka](discord.com/posternaka)
+
+
 [![My Telegram](https://web.telegram.org/k/assets/img/favicon-32x32.png?v=jw3mK7G9Ry)](https://t.me/posternaka)      [![MyGitHub](https://github.githubassets.com/favicons/favicon.png)](https://github.com/posternaka)              [![MyLinkedIn](https://static-exp1.licdn.com/sc/h/8s162nmbcnfkg7a0k8nq9wwqo)](https://www.linkedin.com/in/posternaka)
 
 ---
@@ -24,7 +26,8 @@ I'm interested in what I do. I try to give my best. Sometimes it is difficult, b
   
 ### my code example:
 _You will be given a number and you will need to return it as a string in Expanded Form._
-For example: **expandedForm(12);** _// Should return '10 + 2'_
+
+For example: **expandedForm(12);**   _// Should return '10 + 2'_
 ```function expandedForm(num) {
   let res = '';
   for(let i = 0; i < String(num).length; i++) {
