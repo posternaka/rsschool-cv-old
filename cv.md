@@ -9,4 +9,22 @@
 ---
 ### about me
 >A year ago, I set myself the goal of becoming a developer. During this time, I regularly study, look for answers to questions, watch tutorials, attend various intensives, read books.
-I'm interested in what I do. I try to give my best. Sometimes it is difficult, but when you overcome it, you become one step closer to your goal. 
+I'm interested in what I do. I try to give my best. Sometimes it is difficult, but when you overcome it, you become one step closer to your goal.
+### my skils:
+- HTML5
+- CSS3
+- JS(ES6)
+- React(Basic)
+### my code example:
+_You will be given a number and you will need to return it as a string in Expanded Form._
+For example: **expandedForm(12);** _// Should return '10 + 2'_
+```function expandedForm(num) {
+  let res = '';
+  for(let i = 0; i < String(num).length; i++) {
+    if(String(num)[i] != 0) {
+      res += (Math.pow(10, String(num).slice(i).length - 1) * String(num)[i] + ' ');
+    } 
+  }
+  return res.trim().split(' ').join(' + ');
+}
+```
