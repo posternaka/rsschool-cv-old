@@ -1,1 +1,1 @@
-# rsschool-cv
+https://posternaka.github.io/rsschool-cv/cv
